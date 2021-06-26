@@ -1,2 +1,1 @@
-# ChatApp Anlik Mesajlasma Uygulamasi-HTML-CSS-JavScript
- 
+# HTML & CSS & JavaScript kullanılarak hazırlanan anlık sohbet uygulaması
